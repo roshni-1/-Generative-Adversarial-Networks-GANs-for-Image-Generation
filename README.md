@@ -39,6 +39,12 @@ The discriminator model takes a 28x28x1 image as input and outputs a single scal
 
 The combined model stacks the generator and discriminator models. The discriminator is set to non-trainable when training the generator.
 
+![Alt text](https://github.com/roshni-1/-Generative-Adversarial-Networks-GANs-for-Image-Generation/blob/main/Class%20Diagram%20.png "Class Diagram")
+![Alt text](https://github.com/roshni-1/-Generative-Adversarial-Networks-GANs-for-Image-Generation/blob/main/Sequence%20Diagram.png "Sequence Diagram")
+![Alt text](https://github.com/roshni-1/-Generative-Adversarial-Networks-GANs-for-Image-Generation/blob/main/Flowchart.png "Flowchart")
+
+
+
 ## Installation
 
 To run this project, you need to have Python and the following libraries installed:
